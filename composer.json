@@ -1,0 +1,10 @@
+{
+    "name": "ViralPassion/exit-bee",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "source": {
+        "url": "git@github.com:ViralPassion/exit-bee",
+        "type": "git",
+        "reference": "master"
+    }
+}
